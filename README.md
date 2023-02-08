@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title: The Persistence of the Analytic School... Until the Continental
++ Project title: The Persistence of the Analytic School... Until the Continental
 + This project is conducted by Kaitlyn Brown
 
 + Project summary: This project analyzes the changes, or lack thereof, within the analytic school of philosophy across its two predominant eras. It takes consideration of the ideas, structure, and emotion of the philosophical texts. It then discovers how the analytic school differs from what followed and overtook it, the continental school, and how dramatic those changes were. Data used in project is from: https://www.kaggle.com/datasets/kouroshalizadeh/history-of-philosophy. 
